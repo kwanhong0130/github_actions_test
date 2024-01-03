@@ -90,8 +90,7 @@ def get_stats_result(course_report_endpoint, remote_file_endpoint, org_id, api_s
     logger.info("Download token is: " + report_download_token)
     
     for percent_complete in range(100):
-        time.sleep(0.1)
-        logger.info(f"Waiting before get remote file... {percent_complete}")
+        time.sleep(0.2)
     
     down_report_file_name = f"report_organization_{org_id}_{formatted_now_date}.xlsx"
     report_blob_url = get_remote_file(remote_file_endpoint, api_sessionkey, report_download_token)
