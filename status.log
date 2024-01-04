@@ -612,3 +612,8 @@
 2024-01-03 23:11:35,751 - __main__ - INFO - Request of course report success
 2024-01-03 23:11:35,752 - __main__ - INFO - Download token is: 6e0507280f524960be5a84316d55cf64
 2024-01-03 23:11:59,771 - __main__ - INFO - ['jhkkk@lginnotek.com', 'taewan.roh@lginnotek.com', 'jtkwon@lginnotek.com', 'seungji.kook@lginnotek.com', 'alan.k.lee.66@gmail.com']
+2024-01-04 00:47:07,558 - __main__ - INFO - Get auth token success
+2024-01-04 00:47:07,559 - __main__ - INFO - Sessionkey is: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjcxMDQzNjksIm5vbmNlIjoiR3RsSGthdWwwQm0yNDdzVCIsImlhdCI6MTcwNDMyOTIyNywiaXNzIjoiZWxpY2UtYWNjb3VudC1hcGkifQ.FZNTW1KCC191Po-dEWFotQKus2xH3pTtr3pxX_uRkMs
+2024-01-04 00:47:08,979 - __main__ - INFO - Request of course report success
+2024-01-04 00:47:08,980 - __main__ - INFO - Download token is: 1c385b1e04b74582ac51dd7c893d31af
+2024-01-04 00:47:32,991 - __main__ - INFO - ['jhkkk@lginnotek.com', 'taewan.roh@lginnotek.com', 'jtkwon@lginnotek.com', 'seungji.kook@lginnotek.com', 'alan.k.lee.66@gmail.com']
